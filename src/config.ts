@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/RayhanGMAN",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "I am a high school student with a passion for technology and programming. I enjoy building small projects with python, designing new applications, and exploring new technologies. In my free time, I like to play basketball, read books, and explore new programming languages to learn.",
   skills: ["Python", "HTML", "CSS"],
   projects: [
     {
