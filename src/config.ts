@@ -55,13 +55,12 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Hamilton High School",
+      dateRange: "2025 - current",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
+        "Honors with distinction 4.0 GPA",
         "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Captain of Speech and Debate Team BQ",
       ],
     },
     {
